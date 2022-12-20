@@ -1,0 +1,11 @@
+{
+    "port": "",
+    "mongo_uri": "",
+    "jwt_secret_key": "",
+    "encryption_key": "",
+    "sms": {
+        "accountsid": "",
+        "auth": "",
+        "myphone": ""
+    }
+}
